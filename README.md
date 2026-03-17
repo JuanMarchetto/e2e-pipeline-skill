@@ -45,7 +45,7 @@ cp -r e2e-pipeline-skill ~/.claude/skills/e2e-pipeline
 ## What's Inside
 
 ```
-e2e-pipeline/
+e2e-pipeline-skill/
 ├── SKILL.md                    # Full pipeline instructions
 ├── reference.md                # Action & assertion reference
 └── templates/
