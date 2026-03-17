@@ -1,0 +1,10 @@
+# E2E Pipeline — Maestro Test Template
+# Replace {{PLACEHOLDERS}} with actual values
+appId: {{APP_ID}}
+---
+# Test: {{FLOW_NAME}}
+
+# {{STEP_NAME}}
+- tapOn: "{{ELEMENT}}"
+- assertVisible: "{{EXPECTED_TEXT}}"
+- takeScreenshot: "{{SCREENSHOT_NAME}}"

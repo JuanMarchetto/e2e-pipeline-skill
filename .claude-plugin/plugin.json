@@ -1,0 +1,9 @@
+{
+  "name": "e2e-pipeline",
+  "description": "E2E test pipeline — discover screens, generate Maestro tests, execute, and report results",
+  "version": "1.0.0",
+  "author": { "name": "Juan Marchetto" },
+  "homepage": "https://github.com/JuanMarchetto/e2e-pipeline-skill",
+  "repository": "https://github.com/JuanMarchetto/e2e-pipeline-skill",
+  "license": "MIT"
+}
